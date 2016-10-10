@@ -1,0 +1,6 @@
+zsh
+export ATLAS_LOCAL_ROOT_BASE=/cvmfs/atlas.cern.ch/repo/ATLASLocalRootBase
+source ${ATLAS_LOCAL_ROOT_BASE}/user/atlasLocalSetup.sh
+localSetupROOT 5.34.11-x86_64-slc6-gcc4.7
+
+PhysicsAnalysis/TopPhys/xAOD/TopNtupleAnalysis

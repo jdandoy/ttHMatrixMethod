@@ -1,0 +1,7 @@
+zsh
+#cd /usr/local/root/
+cd /usr/local/root_v5.34.25
+. ./bin/thisroot.sh
+cd /home/derue/public/atlas/analyse/DataAnalysis/TopPhys/TreeAna/8TeV/plot/dev
+
+

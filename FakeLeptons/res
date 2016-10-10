@@ -1,0 +1,331 @@
+  *******************************************
+  *                                         *
+  *        W E L C O M E  to  R O O T       *
+  *                                         *
+  *   Version   5.34/11   31 October 2013   *
+  *                                         *
+  *  You are welcome to visit our Web site  *
+  *          http://root.cern.ch            *
+  *                                         *
+  *******************************************
+
+ROOT 5.34/11 (v5-34-11@v5-34-11, Oct 31 2013, 16:57:42 on linuxx8664gcc)
+
+CINT/ROOT C/C++ Interpreter version 5.18.00, July 2, 2010
+Type ? for help. Commands must be C++ statements.
+Enclose multiple statements between { }.
+
+Processing plotControlSemiLeptonic.C...
+Error: Redefinition of default argument AtlasUtils.C:272:
+*** Interpreter error recovered ***
+
+Applying ATLAS style settings...
+
+Warning in <TStreamerInfo::BuildCheck>: 
+   The StreamerInfo of class TCollection read from file /data/atlas0/data/DATA/DATA15/DAOD_TOPQ1/filt/HistFinal/SemiLeptonic/user.derue.Data-periodDtoJ.physics_Main.DAOD_TOPQ1.p2452.SemiLeptonic.2337-2.root
+   has the same version (=3) as the active class but a different checksum.
+   You should update the version to ClassDef(TCollection,4).
+   Do not try to write objects with the current class definition,
+   the files will not be readable.
+
+Warning in <TStreamerInfo::CompareContent>: The following data member of
+the on-file layout version 3 of class 'TCollection' differs from 
+the in-memory layout version 3:
+   int fSize; //
+vs
+   Int_t fSize; //
+Warning in <TStreamerInfo::BuildCheck>: 
+   The StreamerInfo of class TAttMarker read from file /data/atlas0/data/DATA/DATA15/DAOD_TOPQ1/filt/HistFinal/SemiLeptonic/user.derue.Data-periodDtoJ.physics_Main.DAOD_TOPQ1.p2452.SemiLeptonic.2337-2.root
+   has the same version (=2) as the active class but a different checksum.
+   You should update the version to ClassDef(TAttMarker,3).
+   Do not try to write objects with the current class definition,
+   the files will not be readable.
+
+Warning in <TStreamerInfo::CompareContent>: The following data member of
+the on-file layout version 2 of class 'TAttMarker' differs from 
+the in-memory layout version 2:
+   short fMarkerColor; //
+vs
+   Color_t fMarkerColor; //
+Warning in <TStreamerInfo::CompareContent>: The following data member of
+the on-file layout version 2 of class 'TAttMarker' differs from 
+the in-memory layout version 2:
+   short fMarkerStyle; //
+vs
+   Style_t fMarkerStyle; //
+Warning in <TStreamerInfo::CompareContent>: The following data member of
+the on-file layout version 2 of class 'TAttMarker' differs from 
+the in-memory layout version 2:
+   float fMarkerSize; //
+vs
+   Size_t fMarkerSize; //
+Warning in <TStreamerInfo::BuildCheck>: 
+   The StreamerInfo of class TAttLine read from file /data/atlas0/data/DATA/DATA15/DAOD_TOPQ1/filt/HistFinal/SemiLeptonic/user.derue.Data-periodDtoJ.physics_Main.DAOD_TOPQ1.p2452.SemiLeptonic.2337-2.root
+   has the same version (=1) as the active class but a different checksum.
+   You should update the version to ClassDef(TAttLine,2).
+   Do not try to write objects with the current class definition,
+   the files will not be readable.
+
+Warning in <TStreamerInfo::CompareContent>: The following data member of
+the on-file layout version 1 of class 'TAttLine' differs from 
+the in-memory layout version 1:
+   short fLineColor; //
+vs
+   Color_t fLineColor; //
+Warning in <TStreamerInfo::CompareContent>: The following data member of
+the on-file layout version 1 of class 'TAttLine' differs from 
+the in-memory layout version 1:
+   short fLineStyle; //
+vs
+   Style_t fLineStyle; //
+Warning in <TStreamerInfo::CompareContent>: The following data member of
+the on-file layout version 1 of class 'TAttLine' differs from 
+the in-memory layout version 1:
+   short fLineWidth; //
+vs
+   Width_t fLineWidth; //
+Warning in <TStreamerInfo::BuildCheck>: 
+   The StreamerInfo of class TAttFill read from file /data/atlas0/data/DATA/DATA15/DAOD_TOPQ1/filt/HistFinal/SemiLeptonic/user.derue.Data-periodDtoJ.physics_Main.DAOD_TOPQ1.p2452.SemiLeptonic.2337-2.root
+   has the same version (=1) as the active class but a different checksum.
+   You should update the version to ClassDef(TAttFill,2).
+   Do not try to write objects with the current class definition,
+   the files will not be readable.
+
+Warning in <TStreamerInfo::CompareContent>: The following data member of
+the on-file layout version 1 of class 'TAttFill' differs from 
+the in-memory layout version 1:
+   short fFillColor; //
+vs
+   Color_t fFillColor; //
+Warning in <TStreamerInfo::CompareContent>: The following data member of
+the on-file layout version 1 of class 'TAttFill' differs from 
+the in-memory layout version 1:
+   short fFillStyle; //
+vs
+   Style_t fFillStyle; //
+Warning in <TStreamerInfo::BuildCheck>: 
+   The StreamerInfo of class TH1 read from file /data/atlas0/data/DATA/DATA15/DAOD_TOPQ1/filt/HistFinal/SemiLeptonic/user.derue.Data-periodDtoJ.physics_Main.DAOD_TOPQ1.p2452.SemiLeptonic.2337-2.root
+   has the same version (=7) as the active class but a different checksum.
+   You should update the version to ClassDef(TH1,8).
+   Do not try to write objects with the current class definition,
+   the files will not be readable.
+
+Warning in <TStreamerInfo::CompareContent>: The following data member of
+the on-file layout version 7 of class 'TH1' differs from 
+the in-memory layout version 7:
+   int fNcells; //
+vs
+   Int_t fNcells; //
+Warning in <TStreamerInfo::CompareContent>: The following data member of
+the on-file layout version 7 of class 'TH1' differs from 
+the in-memory layout version 7:
+   short fBarOffset; //
+vs
+   Short_t fBarOffset; //
+Warning in <TStreamerInfo::CompareContent>: The following data member of
+the on-file layout version 7 of class 'TH1' differs from 
+the in-memory layout version 7:
+   short fBarWidth; //
+vs
+   Short_t fBarWidth; //
+Warning in <TStreamerInfo::CompareContent>: The following data member of
+the on-file layout version 7 of class 'TH1' differs from 
+the in-memory layout version 7:
+   double fEntries; //
+vs
+   Double_t fEntries; //
+Warning in <TStreamerInfo::CompareContent>: The following data member of
+the on-file layout version 7 of class 'TH1' differs from 
+the in-memory layout version 7:
+   double fTsumw; //
+vs
+   Double_t fTsumw; //
+Warning in <TStreamerInfo::CompareContent>: The following data member of
+the on-file layout version 7 of class 'TH1' differs from 
+the in-memory layout version 7:
+   double fTsumw2; //
+vs
+   Double_t fTsumw2; //
+Warning in <TStreamerInfo::CompareContent>: The following data member of
+the on-file layout version 7 of class 'TH1' differs from 
+the in-memory layout version 7:
+   double fTsumwx; //
+vs
+   Double_t fTsumwx; //
+Warning in <TStreamerInfo::CompareContent>: The following data member of
+the on-file layout version 7 of class 'TH1' differs from 
+the in-memory layout version 7:
+   double fTsumwx2; //
+vs
+   Double_t fTsumwx2; //
+Warning in <TStreamerInfo::CompareContent>: The following data member of
+the on-file layout version 7 of class 'TH1' differs from 
+the in-memory layout version 7:
+   double fMaximum; //
+vs
+   Double_t fMaximum; //
+Warning in <TStreamerInfo::CompareContent>: The following data member of
+the on-file layout version 7 of class 'TH1' differs from 
+the in-memory layout version 7:
+   double fMinimum; //
+vs
+   Double_t fMinimum; //
+Warning in <TStreamerInfo::CompareContent>: The following data member of
+the on-file layout version 7 of class 'TH1' differs from 
+the in-memory layout version 7:
+   double fNormFactor; //
+vs
+   Double_t fNormFactor; //
+Warning in <TStreamerInfo::CompareContent>: The following data member of
+the on-file layout version 7 of class 'TH1' differs from 
+the in-memory layout version 7:
+   int fBufferSize; //
+vs
+   Int_t fBufferSize; //
+Warning in <TStreamerInfo::CompareContent>: The following data member of
+the on-file layout version 7 of class 'TH1' differs from 
+the in-memory layout version 7:
+   double* fBuffer; //fBufferSize
+vs
+   Double_t* fBuffer; //fBufferSize
+Warning in <TStreamerInfo::BuildCheck>: 
+   The StreamerInfo of class TAxis read from file /data/atlas0/data/DATA/DATA15/DAOD_TOPQ1/filt/HistFinal/SemiLeptonic/user.derue.Data-periodDtoJ.physics_Main.DAOD_TOPQ1.p2452.SemiLeptonic.2337-2.root
+   has the same version (=9) as the active class but a different checksum.
+   You should update the version to ClassDef(TAxis,10).
+   Do not try to write objects with the current class definition,
+   the files will not be readable.
+
+Warning in <TStreamerInfo::CompareContent>: The following data member of
+the on-file layout version 9 of class 'TAxis' differs from 
+the in-memory layout version 9:
+   int fNbins; //
+vs
+   Int_t fNbins; //
+Warning in <TStreamerInfo::CompareContent>: The following data member of
+the on-file layout version 9 of class 'TAxis' differs from 
+the in-memory layout version 9:
+   double fXmin; //
+vs
+   Double_t fXmin; //
+Warning in <TStreamerInfo::CompareContent>: The following data member of
+the on-file layout version 9 of class 'TAxis' differs from 
+the in-memory layout version 9:
+   double fXmax; //
+vs
+   Double_t fXmax; //
+Warning in <TStreamerInfo::CompareContent>: The following data member of
+the on-file layout version 9 of class 'TAxis' differs from 
+the in-memory layout version 9:
+   int fFirst; //
+vs
+   Int_t fFirst; //
+Warning in <TStreamerInfo::CompareContent>: The following data member of
+the on-file layout version 9 of class 'TAxis' differs from 
+the in-memory layout version 9:
+   int fLast; //
+vs
+   Int_t fLast; //
+Warning in <TStreamerInfo::CompareContent>: The following data member of
+the on-file layout version 9 of class 'TAxis' differs from 
+the in-memory layout version 9:
+   unsigned short fBits2; //
+vs
+   UShort_t fBits2; //
+Warning in <TStreamerInfo::CompareContent>: The following data member of
+the on-file layout version 9 of class 'TAxis' differs from 
+the in-memory layout version 9:
+   bool fTimeDisplay; //
+vs
+   Bool_t fTimeDisplay; //
+Warning in <TStreamerInfo::BuildCheck>: 
+   The StreamerInfo of class TAttAxis read from file /data/atlas0/data/DATA/DATA15/DAOD_TOPQ1/filt/HistFinal/SemiLeptonic/user.derue.Data-periodDtoJ.physics_Main.DAOD_TOPQ1.p2452.SemiLeptonic.2337-2.root
+   has the same version (=4) as the active class but a different checksum.
+   You should update the version to ClassDef(TAttAxis,5).
+   Do not try to write objects with the current class definition,
+   the files will not be readable.
+
+Warning in <TStreamerInfo::CompareContent>: The following data member of
+the on-file layout version 4 of class 'TAttAxis' differs from 
+the in-memory layout version 4:
+   int fNdivisions; //
+vs
+   Int_t fNdivisions; //
+Warning in <TStreamerInfo::CompareContent>: The following data member of
+the on-file layout version 4 of class 'TAttAxis' differs from 
+the in-memory layout version 4:
+   short fAxisColor; //
+vs
+   Color_t fAxisColor; //
+Warning in <TStreamerInfo::CompareContent>: The following data member of
+the on-file layout version 4 of class 'TAttAxis' differs from 
+the in-memory layout version 4:
+   short fLabelColor; //
+vs
+   Color_t fLabelColor; //
+Warning in <TStreamerInfo::CompareContent>: The following data member of
+the on-file layout version 4 of class 'TAttAxis' differs from 
+the in-memory layout version 4:
+   short fLabelFont; //
+vs
+   Style_t fLabelFont; //
+Warning in <TStreamerInfo::CompareContent>: The following data member of
+the on-file layout version 4 of class 'TAttAxis' differs from 
+the in-memory layout version 4:
+   float fLabelOffset; //
+vs
+   Float_t fLabelOffset; //
+Warning in <TStreamerInfo::CompareContent>: The following data member of
+the on-file layout version 4 of class 'TAttAxis' differs from 
+the in-memory layout version 4:
+   float fLabelSize; //
+vs
+   Float_t fLabelSize; //
+Warning in <TStreamerInfo::CompareContent>: The following data member of
+the on-file layout version 4 of class 'TAttAxis' differs from 
+the in-memory layout version 4:
+   float fTickLength; //
+vs
+   Float_t fTickLength; //
+Warning in <TStreamerInfo::CompareContent>: The following data member of
+the on-file layout version 4 of class 'TAttAxis' differs from 
+the in-memory layout version 4:
+   float fTitleOffset; //
+vs
+   Float_t fTitleOffset; //
+Warning in <TStreamerInfo::CompareContent>: The following data member of
+the on-file layout version 4 of class 'TAttAxis' differs from 
+the in-memory layout version 4:
+   float fTitleSize; //
+vs
+   Float_t fTitleSize; //
+Warning in <TStreamerInfo::CompareContent>: The following data member of
+the on-file layout version 4 of class 'TAttAxis' differs from 
+the in-memory layout version 4:
+   short fTitleColor; //
+vs
+   Color_t fTitleColor; //
+Warning in <TStreamerInfo::CompareContent>: The following data member of
+the on-file layout version 4 of class 'TAttAxis' differs from 
+the in-memory layout version 4:
+   short fTitleFont; //
+vs
+   Style_t fTitleFont; //
+ name = user.derue.mc15_13TeV.ttbar.410000.SemiLeptonic.AT191.root
+ i = 0 hSemiLeptonicETmiss_EJet_noMETMTW_ge1j_pretag
+Reading histogram hSemiLeptonicETmiss_EJet_noMETMTW_ge1j_pretag
+ data = 0x2febe90 100
+ httbar = 0x3a09880
+ hst = 0x3ab3950
+ var = 0 0x3ab3d90 100
+ ttbar entries = 2.69127e-06 8
+hstack_ETmiss
+ data entries = 36
+ ttbar entries = 2.69127e-06
+ single top entries = 1.60701e-07
+ min = 0 140 0 140
+ end of plotAxis 
+ plot histograms 
+ apres plot histograms 
+Error: Unexpected end of file (G__fgetc()) AtlasLabels.C:272:
+
+ *** Break *** segmentation violation

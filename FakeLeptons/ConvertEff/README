@@ -1,0 +1,12 @@
+### set up de ROOT (no to be used as too slow)
+zsh
+export ATLAS_LOCAL_ROOT_BASE=/cvmfs/atlas.cern.ch/repo/ATLASLocalRootBase
+source ${ATLAS_LOCAL_ROOT_BASE}/user/atlasLocalSetup.sh
+localSetupROOT
+cd ~/public/atlas/analyse/DataAnalysis/TopPhys/TopRootCore/8TeV/TRC-14-00-14
+
+### set up de ROOT 
+zsh
+cd /usr/local/root/
+. bin/thisroot.sh
+cd /home/derue/public/atlas/analyse/DataAnalysis/TopPhys/TreeAna/8TeV/Efficiency/ConvertEff
